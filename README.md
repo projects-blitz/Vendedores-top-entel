@@ -1,5 +1,7 @@
 # Vendedores Dashboard (React + Vite)
 
+[![CI](https://github.com/projects-blitz/Vendedores-top-entel/actions/workflows/ci.yml/badge.svg)](https://github.com/projects-blitz/Vendedores-top-entel/actions/workflows/ci.yml)
+
 Dashboard de ventas tipo telecom — frontend con Vite, React, Tailwind, Recharts y Framer Motion.
 
 Setup:
